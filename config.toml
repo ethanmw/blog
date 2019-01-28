@@ -17,8 +17,8 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
-  description = "HELLO"
+  favicon = "images/favicon.png"
+  description = "Random and not-so-random thoughts."
   facebook = ""
   twitter = "https://twitter.com/ethanmw17"
   instagram = "https://www.instagram.com/ethanmw17/"
